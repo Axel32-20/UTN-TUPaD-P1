@@ -1,20 +1,9 @@
-# 💻 Programación 1  
-**Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+TUP-Proyectos
+Repositorio de trabajos prácticos para la Tecnicatura Universitaria en Programación - UTN
 
-## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+AUTOR : Le Roux Axel - comision 16 - TUP
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+CONTENIDO: El repositorio remoto contiene en cada carpeta subdidivida , por el numero de trabajos practicos, submodulos, que a su vez contienen los repositorios incluyendo commits de cada ejercicio.
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
 
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
 
